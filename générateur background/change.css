@@ -1,0 +1,19 @@
+
+div{
+    background-color: #ff0000;
+    border: 5px solid black;
+    display:grid;
+    
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    grid-column: span 2;
+    text-align: center;
+    font-size: xx-large;
+    color: #FFFFFF;
+}
+button{
+    grid-column: span 2;
+    font-size: xx-large;
+}
